@@ -53,7 +53,7 @@
 
   <h2>🚀 Getting Started</h2>
   <h3>1. Clone the Repo</h3>
-  <pre><code>git clone https://github.com/your-username/network_subnet_calculator.git
+  <pre><code>git clone https://github.com/Kalhara2000/Network-Subnet-Calculator--Flutter-App.git
 cd network_subnet_calculator</code></pre>
 
   <h3>2. Install Dependencies</h3>
