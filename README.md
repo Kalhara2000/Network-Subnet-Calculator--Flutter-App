@@ -47,7 +47,15 @@
   <hr />
 
   <h2>📷 Screenshots</h2>
-  <p><em>(Add screenshots of the app here in the <code>screenshots/</code> folder)</em></p>
+  <p><em>(Add screenshots of the app here in the <code>screenshots/</code> folder)</em>
+  
+  
+  <img width="557" height="969" alt="Dark mode interface" src="https://github.com/user-attachments/assets/9f22828d-d951-4c5d-99d1-3b2cbce58015" />
+
+  
+  
+  
+  </p>
 
   <hr />
 
