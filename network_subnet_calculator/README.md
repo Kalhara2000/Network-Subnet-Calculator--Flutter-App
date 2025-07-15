@@ -35,8 +35,8 @@
   <hr/>
 
   <h2>📁 3. Clone the Project</h2>
-  <pre><code>git clone https://github.com/your-username/network_subnet_calculator.git
-cd network_subnet_calculator</code></pre>
+  <pre><code>git clone https://github.com/Kalhara2000/Network-Subnet-Calculator--Flutter-App.git
+cd Network-Subnet-Calculator--Flutter-App/network_subnet_calculator</code></pre>
 
   <hr/>
 
