@@ -99,8 +99,7 @@ assets/app_icons/ic_launcher_foreground.png
   <h2>🙋‍♂️ Author</h2>
   <p>
     👨‍💻 Thamindu Kalhara <br />
-    📫 <em>[Add your LinkedIn or email here]</em> <br />
-    🔗 <a href="https://github.com/your-username">https://github.com/your-username</a>
+    📫 <em><a href="https://www.linkedin.com/in/ktdt-kalhara/">ktdt-kalhara</a></em> <br />
   </p>
 
 </body>
